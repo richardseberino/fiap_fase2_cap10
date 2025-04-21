@@ -4,7 +4,7 @@ O objetivo deste repositório é documentar a modelagem criada para o trabalho c
 
 ## 2 - Modelagem
 
-![Diagrama da Modelagem de Dados](modelo_agreo_png)
+![Diagrama da Modelagem de Dados](modelo_agro_png)
 
 ## 3 - Detalhe das entidades
 
