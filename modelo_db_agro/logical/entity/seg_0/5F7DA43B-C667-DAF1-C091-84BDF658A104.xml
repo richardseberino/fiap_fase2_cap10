@@ -1,0 +1,87 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="5F7DA43B-C667-DAF1-C091-84BDF658A104" name="t_coleta">
+<createdBy>seberino</createdBy>
+<createdTime>2025-04-21 22:24:51 UTC</createdTime>
+<ownerDesignName>modelo_db_agro</ownerDesignName>
+<engineerTo>
+<item key="9469E6BB-FFFF-E2DE-8F35-E7423F292A72" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ts_coleta" id="E8510DBF-26E1-35C9-0F56-989075F78D51">
+<createdBy>seberino</createdBy>
+<createdTime>2025-04-21 22:25:05 UTC</createdTime>
+<ownerDesignName>modelo_db_agro</ownerDesignName>
+<engineerTo>
+<item key="9469E6BB-FFFF-E2DE-8F35-E7423F292A72" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT015</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cd_sensor" id="A860CD36-67D5-9717-CD20-2B69C659D8FE">
+<createdBy>seberino</createdBy>
+<createdTime>2025-04-21 22:27:20 UTC</createdTime>
+<generatorID>9002C737-C6BD-471B-78FC-364957CA69DF</generatorID>
+<ownerDesignName>modelo_db_agro</ownerDesignName>
+<engineerTo>
+<item key="9469E6BB-FFFF-E2DE-8F35-E7423F292A72" value="true"/>
+</engineerTo>
+<referedAttribute>18C8B01D-8A5E-D9EA-D380-275C705EA9E7</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="vl_coleta" id="52D96FCF-321F-D503-1A26-5C278253A762">
+<createdBy>seberino</createdBy>
+<createdTime>2025-04-21 22:25:16 UTC</createdTime>
+<ownerDesignName>modelo_db_agro</ownerDesignName>
+<engineerTo>
+<item key="9469E6BB-FFFF-E2DE-8F35-E7423F292A72" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT020</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="tp_indicador" id="FAD58434-6BDD-0861-46D3-FA5280DAC974">
+<createdBy>seberino</createdBy>
+<createdTime>2025-04-21 22:25:33 UTC</createdTime>
+<ownerDesignName>modelo_db_agro</ownerDesignName>
+<engineerTo>
+<item key="9469E6BB-FFFF-E2DE-8F35-E7423F292A72" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="FC3BCDE8-037B-7117-939E-B5EE62AF7753" name="t_coleta_sensor PK">
+<createdBy>seberino</createdBy>
+<createdTime>2025-04-21 22:25:13 UTC</createdTime>
+<ownerDesignName>modelo_db_agro</ownerDesignName>
+<engineerTo>
+<item key="9469E6BB-FFFF-E2DE-8F35-E7423F292A72" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>E8510DBF-26E1-35C9-0F56-989075F78D51</attributeRef>
+<attributeRef>A860CD36-67D5-9717-CD20-2B69C659D8FE</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

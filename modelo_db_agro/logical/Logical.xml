@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="006C0641-ADE6-DD84-F903-9A3B82FB7DF0" mainViewID="5A88690C-8608-5956-6DFC-9C03E7E0BD0E">
+<createdBy>seberino</createdBy>
+<createdTime>2025-04-21 22:22:44 UTC</createdTime>
+<ownerDesignName>modelo_db_agro</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

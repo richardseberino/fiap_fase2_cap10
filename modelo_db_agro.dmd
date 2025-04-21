@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo_db_agro" id="A01583BD-624C-4979-155A-831F5D7B4920" version="3.5">
+<createdBy>seberino</createdBy>
+<createdTime>2025-04-21 22:22:44 UTC</createdTime>
+<ownerDesignName>modelo_db_agro</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A01583BD-624C-4979-155A-831F5D7B4920</designId>
+</OSDM_Design>
