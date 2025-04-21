@@ -25,3 +25,10 @@ Esta entidade armazena os dados dos produtos que podem ser administrados nos loc
 ### t_aplicacao
 Esta entidade tem por objetivo registrar sempre que um produto é administrado em algum local. A ideia é poder analisar o resultado (eficiencia) da aplicação de determinado produto em resposta a algum indicador coletado. 
 
+## Equipe / Grupo
+Este trabalho foi realizado em grupo pelos seguintes alunos:
+Richard - rm563313
+Douglas - rm561335
+Evelyn -  rm562451
+Lucas - rm564892
+Luis - rm565285
