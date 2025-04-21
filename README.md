@@ -27,8 +27,13 @@ Esta entidade tem por objetivo registrar sempre que um produto é administrado e
 
 ## 4 - Equipe / Grupo
 Este trabalho foi realizado em grupo pelos seguintes alunos:
+
 Richard - rm563313
+
 Douglas - rm561335
+
 Evelyn -  rm562451
+
 Lucas - rm564892
+
 Luis - rm565285
