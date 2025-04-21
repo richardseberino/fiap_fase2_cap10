@@ -2,6 +2,8 @@
 ## 1 - Introdução
 O objetivo deste repositório é documentar a modelagem criada para o trabalho capitulo 1 fase 2 do curso Fiap de Inteligencia Atificial.
 
+O Desafio é modelar um banco de dados capaz de coletar dados de sensores na lavroura e permitir uma análise das ações ao longo do tempo em resposta aos indicadores monitorados para calcular a eficácia das ações e permitir otimizar o cultivo.
+
 ## 2 - Modelagem
 
 ![Diagrama da Modelagem de Dados](modelo_agro.png)
